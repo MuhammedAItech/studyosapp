@@ -1,0 +1,6 @@
+{
+  "name": "Study OS",
+  "description": "Mobile-first exam prep web app for Nigerian students (JAMB, WAEC, NECO) with a Crawford University pilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
